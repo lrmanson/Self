@@ -1,0 +1,20 @@
+
+1.how to implement 
+  Dubbo,
+  RabbitMQ,
+  Redis,
+  ThreadPool
+2.Talk about
+  GC,
+  JVM inner memory structure,
+3.Spring source
+4.HashMap and TreeMap
+5.How to deal with EC requests conflict
+6.Difference between Redis and Memcache
+7.What are the classes in Java.lang* and Java.util*
+8.What's dead lock
+9.What index do you use in Mysql
+10.EC Gateway?
+11.Write a singleton
+12.SpringBean methods
+
