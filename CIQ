@@ -3,12 +3,12 @@
   Dubbo,
   RabbitMQ,
   Redis,
-  ThreadPool
+  
 2.Talk about
   GC,
   JVM inner memory structure,
-3.Spring source
-4.HashMap and TreeMap
+3.Spring source,ibatis problems
+4.HashMap,HashTable and TreeMap
 5.How to deal with EC requests conflict
 6.Difference between Redis and Memcache
 7.What are the classes in Java.lang* and Java.util*
